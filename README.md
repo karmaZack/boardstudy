@@ -1,3 +1,0 @@
-# boardstudy
-board study
-test!!
